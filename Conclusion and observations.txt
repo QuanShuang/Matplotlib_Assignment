@@ -1,0 +1,10 @@
+Conclusions:
+
+1. Based on "Tumor Response to Treatment" and "Tumor Change Over 45 Day Treatment" charts, we can see that only Capomulin had a positive treatment effect to reduce the tumor volume by nearly 20% over 45 days. Whereas Infubinol, Ketapril and Placebo didn't help to treat the tumor, and results showed a growth of around 50% of tumor volume.   
+
+2. Looking at the "Survival During Treatment" chart, we can easily see that mice treated by Capomulin had an outstanding survival rate of 84%, whereas the other 3 treatments only left around 40% mice alive. 
+
+3. According to the metastatic spread during treatment, we can also see that Capomulin decelerated most the spreading speed of tumor, showing averagely 1.5 sites after 45 days, while the other 3 treatments resulted in more than 2 sites over the same period. 
+
+
+Final conclusion is that based on the test data, we can only accept "Capomulin" among the 4 studied drugs. 
